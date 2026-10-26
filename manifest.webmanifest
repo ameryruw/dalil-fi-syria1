@@ -1,0 +1,13 @@
+{
+  "name": "DALIL SURIYA — Справочник Сирии",
+  "short_name": "Dalil",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#243B35",
+  "theme_color": "#243B35",
+  "lang": "ar",
+  "icons": [
+    { "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
